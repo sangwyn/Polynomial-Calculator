@@ -1,0 +1,22 @@
+# ninja log v5
+6	1913	6679946019564706	CMakeFiles/mnogochlen.dir/WindowManager.cpp.obj	3f8093d0a151b2ea
+25	401	6676654846314121	CMakeFiles/mnogochlen.dir/Node.cpp.obj	c15d69a6b27d1157
+22	483	6676654847095377	CMakeFiles/mnogochlen.dir/Term.cpp.obj	51a8ff7c5b6d7de5
+14	532	6678635330135890	CMakeFiles/mnogochlen.dir/Button.cpp.obj	8def5768a1d2931d
+3	874	6679374662407223	CMakeFiles/mnogochlen.dir/main.cpp.obj	6a8f3315775fe87a
+1913	3445	6679946034785424	mnogochlen.exe	da2cbdb59bbd0fec
+27	890	6679019239325382	CMakeFiles/mnogochlen.dir/Functions.cpp.obj	8a810eb0938848cb
+4	1416	6679946488869982	CMakeFiles/mnogochlen.dir/WindowManager.cpp.obj	3f8093d0a151b2ea
+1421	2377	6679946498420359	mnogochlen.exe	da2cbdb59bbd0fec
+3	1178	6680091246539502	CMakeFiles/mnogochlen.dir/main.cpp.obj	6a8f3315775fe87a
+1178	2337	6680091258070888	mnogochlen.exe	da2cbdb59bbd0fec
+5	1977	6680100884526703	CMakeFiles/mnogochlen.dir/WindowManager.cpp.obj	3f8093d0a151b2ea
+1978	3492	6680100899655827	mnogochlen.exe	da2cbdb59bbd0fec
+8	1725	6680101531748370	CMakeFiles/mnogochlen.dir/WindowManager.cpp.obj	3f8093d0a151b2ea
+1725	2702	6680101541399229	mnogochlen.exe	da2cbdb59bbd0fec
+3	1327	6680102101898522	CMakeFiles/mnogochlen.dir/WindowManager.cpp.obj	3f8093d0a151b2ea
+1327	2319	6680102111744991	mnogochlen.exe	da2cbdb59bbd0fec
+5	1959	6680102274054276	CMakeFiles/mnogochlen.dir/WindowManager.cpp.obj	3f8093d0a151b2ea
+1959	3014	6680102284564964	mnogochlen.exe	da2cbdb59bbd0fec
+5	1909	6680102945990241	CMakeFiles/mnogochlen.dir/WindowManager.cpp.obj	3f8093d0a151b2ea
+1910	2929	6680102956150212	mnogochlen.exe	da2cbdb59bbd0fec

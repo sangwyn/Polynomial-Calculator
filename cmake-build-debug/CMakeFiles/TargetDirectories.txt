@@ -1,0 +1,3 @@
+D:/coding time/praks/mnogochlen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/coding time/praks/mnogochlen/cmake-build-debug/CMakeFiles/mnogochlen.dir
+D:/coding time/praks/mnogochlen/cmake-build-debug/CMakeFiles/edit_cache.dir
